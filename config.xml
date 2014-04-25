@@ -1,19 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.cartilhaeolica" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Smartpublishing</name>
-    <description>
-        Smartpublishing - Mídias em Rede
-    </description>
-    <author email="caio.salvdor@smartpublishing.com.br" href="http://cordova.io">
-        Caio - Smartpublishing
-    </author>
-    <preference name="phonegap-version"           value="3.1.0" />          <!-- all: current version of PhoneGap -->
-    
-    <content src="index.html" />
-    <access origin="*" />
-</widget>
-
-<?xml version='1.0' encoding='utf-8'?>
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
