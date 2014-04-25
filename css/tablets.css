@@ -28,8 +28,14 @@
 .menu li a:visited{
 	color: #625f5e;
 }
-.menu li a.ativo{
+#page2 .menu li a.ativo{
 	color: #51b447;
+}
+#page3 .menu li a.ativo{
+	color: #106aac;
+}
+#page4 .menu li a.ativo{
+	color: #f7b915;
 }
 .footer{
 	float: left;

@@ -5,7 +5,8 @@
  }
 body{
 	font-family: "TwCenMT", sans-serif !important;
-	background-color: #fff;
+	background-color: #fff !important;
+	background-image: none !important;
 }
 p{
 	font-family: "TwCenMT", sans-serif;
