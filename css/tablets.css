@@ -248,5 +248,7 @@
 }
 
 /************** PAGE4 ***************/
-
+.contato iframe{
+	background-image: url('../img/banner-produtos.jpg');
+}
 }
