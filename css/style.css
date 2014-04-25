@@ -45,6 +45,9 @@ h3{
 ul li{
 	list-style: none;
 }
+.pagina{
+	background-color: #fff;
+}
 .ui-content{
 	background-color: #fff;
 	padding-bottom: 0px !important;

@@ -249,6 +249,7 @@
 
 /************** PAGE4 ***************/
 .contato iframe{
-	background-image: url('../img/banner-produtos.jpg');
+	background-image: url('../img/contato-off.jpg');
+	background-repeat: no-repeat;
 }
 }
