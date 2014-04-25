@@ -1,0 +1,252 @@
+@media all and (max-width:1200px) and (min-width:400px){
+.header{
+	width: 100%;
+}
+.logo{
+	width: 32%;
+	float: left;
+}
+.menu{
+	width: 68%;
+	float: left;
+	margin-top: 1%;
+}
+.menu li{
+	float: left;	
+	width: 33%;
+	text-align: center;
+	border-left: 1px solid #625f5e;
+}
+.menu li:first-child{
+	border-left: none;
+}
+.menu li a{
+	font-size: 18px;
+	color: #625f5e;
+	text-decoration: none;
+}
+.menu li a:visited{
+	color: #625f5e;
+}
+.menu li a.ativo{
+	color: #51b447;
+}
+.footer{
+	float: left;
+	width: 104%;
+	margin-left: -2%;
+	background-color: #e7e8e9;
+	padding-top: 5%;
+	padding-bottom: 3%;
+	margin-top: 3%;
+}
+.footer .links{
+	float: left;
+	width: 25%;
+	text-align: center;
+	margin-left: 17%;
+}
+.links a{
+	font-size: 24px;	
+	text-align: center;
+	padding: 30%;
+	padding-top: 15px;
+	text-decoration: none;
+	padding-bottom: 15px;
+}
+.links.quem a{
+	color: #51b447;
+	border: 1px solid #51b447;
+	padding-left: 11%;
+	padding-right: 11%;
+}
+.links.quem a:visited{
+	color: #51b447;	
+}
+.links.quem a:hover{
+	color: #51b447;	
+}
+.links.quem p{
+	font-size: 18px;
+	color: #599060;
+	text-align: center;
+}
+.links.produtos a{
+	color: #126aae;
+	border: 1px solid #126aae;
+}
+.links.produtos a:visited{
+	color: #126aae;	
+}
+.links.produtos a:hover{
+	color: #126aae;	
+}
+.links.produtos p{
+	font-size: 18px;
+	color: #597890;
+	text-align: center;
+}
+.links.contato a{
+	color: #f7b915;
+	border: 1px solid #f7b915;
+}
+.links.contato a:visited{
+	color: #f7b915;	
+}
+.links.contato a:hover{
+	color: #f7b915;	
+}
+.links.contato p{
+	font-size: 18px;
+	color: #8e905c;
+	text-align: center;
+}
+/************** PAGE1 ***************/
+.container-marca{
+	width: 100%;
+	height: auto;
+	margin-top: 20%;
+}
+#page1 .menu-principal li{
+	width: 25%;
+	float: left;
+	margin-left: 2%;
+}
+#page1 a {
+	padding-top: 100%;
+	font-size: 18px;
+	color: #625f5e;
+	text-decoration: none;
+	border: 2px solid #b1adac;
+	padding-top: 5px;
+	text-align: center;
+	float: left;
+	width: 100%;
+	padding-bottom: 5px;
+}
+#page1 .menu-principal li .img-nav{	
+	float: left;
+	text-align: center;
+	width: 100%;
+}
+#page1 ul{
+	margin-left: 11%;
+}
+/************** PAGE2 ***************/
+
+#page2 .banner-quem img{
+	width: 104%;
+	margin-left: -2%;
+}
+#page2 .info{
+	float: left;
+	width: 47%;
+	margin-left: 3%;
+}
+#page2 .row .info:first-child{
+	margin-left: 0px;
+}
+#page2 .row{
+	float: left;
+	width: 100%;
+}
+#page2 .info h2{
+	font-size: 42px;
+	color: #51b447;
+	width: 100%;
+	float: left;
+	margin-bottom: 5%;
+	margin-top: 7%;
+}
+#page2 .info p{
+	color: #576066;
+}
+/************** PAGE3 ***************/
+
+#page3 .banner-produtos img{
+	width: 104%;
+	margin-left: -2%;
+}
+#page3 .cont-aplicativos{
+	float: left;
+	width: 100%;
+	background-image: url('../img/bg-mobile.jpg');
+	background-size: 100% 100%;
+}
+#page3 .aplicativos{
+	width: 42%;
+	float: left;
+	margin-left: 5%;
+	padding-bottom: 5%;
+}
+#page3 .aplicativos p{
+	font-size: 17px;
+}
+#page3 .aplicativos h2{
+	font-size: 60px;
+	color: #126aae;
+	width: 100%;
+	line-height: 56px;
+	float: left;
+	margin-bottom: 5%;
+	margin-top: 10%;
+	font-weight: 400;
+}
+#page3 .servicos{
+	float: left;
+}
+#page3 .servico{
+	float: left;
+	width: 104%;
+	margin-left: -2%;
+	background-color: #126aae;
+}
+#page3 .servico .img-servico{
+	width: 100%;
+	text-align: center;
+	margin-top: 2%;
+}
+#page3 .servico h3{
+	color: #fff;
+	font-size: 36px;
+	width: 90%;
+	margin-left: 5%;
+	float: left;
+	margin-bottom: 0;
+	margin-top: 0px;
+}
+#page3 .servico p{
+	color: #fff;
+	font-size: 18px;
+	width: 90%;
+	float: left;
+	margin-left: 5%;
+}
+#page3 .produto{
+	float: left;
+	width: 49%;
+}
+#page3 .produto h3{
+	color: #126aae;
+	font-size: 24px;
+	width: 100%;	
+	float: left;
+	text-align: center;
+	margin-bottom: 0;
+	margin-top: 0px;
+}
+#page3 .produto p{
+	color: #8a8887;
+	font-size: 18px;
+	width: 80%;
+	float: left;
+	text-align: center;
+	margin-left: 10%;
+}
+#page3 .produto.borda{
+	border-right: 1px solid #126aae;
+}
+
+/************** PAGE4 ***************/
+
+}

@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "TwCenMT";
+    src: url("../fonts/TwCenMT.ttf") format("opentype");   
+        
+ }
+body{
+	font-family: "TwCenMT", sans-serif !important;
+}
+p{
+	font-family: "TwCenMT", sans-serif;
+	font-size: 15px;
+	color: rgb(40, 50, 120);
+	line-height: 23.8px;
+	text-align: left;
+	text-shadow: none;
+	text-transform: none;
+}
+a{	
+	font-family: "TwCenMT", sans-serif;
+	font-size: 15px;
+	line-height: 40px;
+	font-weight: 400 !important;
+	text-shadow: none;
+	text-transform: none;
+}
+ul{
+	list-style: none;
+}
+h1{
+	font-size: 45px;
+	color: rgb(72, 108, 132);
+	text-align: left;
+	padding: 30px;
+	text-transform: none;
+}
+h2{
+	text-shadow: none;
+	text-transform: none;
+}
+h3{
+	text-shadow: none;
+	text-transform: none;
+}
+ul li{
+	list-style: none;
+}
+.ui-content{
+	padding-bottom: 0px !important;
+}
